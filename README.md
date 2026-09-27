@@ -1,28 +1,39 @@
-
 <div align="center">
   <h1 align="center">👋 Hi, I'm Akshay Patil</h1>
   <p align="center"><b>Software Developer | AI & Agentic Systems Builder | Automation Specialist</b></p>
-  <p align="center">
-    <a href="https://www.linkedin.com/in/akshay-patil-ap9028" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:patilakshay239@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
-  </p>
 </div>
 
 <br />
 
-<img align="right" alt="Coding GIF" width="360" src="https://media.giphy.com/media/qgQUggAC3PoxO/giphy.gif" />
+<img align="right" alt="Coding GIF" width="340" src="https://media.giphy.com/media/qgQUggAC3PoxO/giphy.gif" />
 
 ### 💡 About Me
 
-- 🤖 **AI & Agentic Systems:** Architecting RAG Pipelines, Multi-Agent Systems, and fine-tuning LLMs (LoRA, CPT).
-- 🛠️ **NVIDIA AI Stack:** Working with NVIDIA NeMo Microservices, NeMo AutoModel, and Switchyard for customized LLM workflows.
-- ⚡ **Backend & API Development:** Building modular Python applications, REST APIs with FastAPI, and dynamic tools using Streamlit.
-- 📊 **Data & Automation:** Automating end-to-end workflows with n8n, managing complex SQL databases, and building ETL pipelines.
-- 💬 **Ask Me About:** LLM Fine-Tuning, Agentic Workflows, RAG, Python, SQL, and Automation.
+- 🔭 I am an IT Analyst & Software Developer with **6+ years of Experience** [: My Resume](https://drive.google.com/file/d/1tZtugdepO5Y0d5J3DpbpEtcPC7xL75Ec/view?usp=sharing)
+
+- 🌱 I’m currently learning **Advanced Agentic Frameworks & System Design**
+
+- 🔭 I’m currently working on **Automated Document Processing Pipelines**
+
+- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/akshay-patil-ap9028)**
+
+- 💬 Ask me about **Generative AI, RAG, Python, SQL & Automation**
+
+- 📫 Personal Mail ID **[YOUR_EMAIL@gmail.com](mailto:patilakshay239@gmail.com)**
+
+- ⚡ Fun Fact **I enjoy turning repetitive manual tasks into single-click automated workflows!**
+
+---
+
+### 🌐 Connect with me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/akshay-patil-ap9028" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="mailto:patilakshay239@gmail.com" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" />
+  </a>
+</p>
 
 ---
 
@@ -49,7 +60,6 @@
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Shell/Batch](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
 #### **Frameworks, Databases & Tools**
@@ -62,7 +72,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
 ---
 
