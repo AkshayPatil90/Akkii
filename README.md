@@ -9,7 +9,7 @@
 
 ### 💡 About Me
 
-- 🔭 I am an IT Analyst & Software Developer with **6+ years of Experience** [: My Resume](https://drive.google.com/file/d/1tZtugdepO5Y0d5J3DpbpEtcPC7xL75Ec/view?usp=sharing)
+- 🔭 I am an IT Analyst & Software Developer with **7+ years of Experience**: [My Resume](https://drive.google.com/file/d/1tZtugdepO5Y0d5J3DpbpEtcPC7xL75Ec/view?usp=sharing)
 
 - 🌱 I’m currently learning **Advanced Agentic Frameworks & System Design**
 
