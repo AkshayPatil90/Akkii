@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Generative AI, RAG, Python, SQL & Automation**
 
-- 📫 Personal Mail ID **[YOUR_EMAIL@gmail.com](mailto:patilakshay239@gmail.com)**
+- 📫 Personal Mail ID **[patilakshay239@gmail.com](mailto:patilakshay239@gmail.com)**
 
 - ⚡ Fun Fact **I enjoy turning repetitive manual tasks into single-click automated workflows!**
 
